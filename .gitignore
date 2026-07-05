@@ -1,0 +1,19 @@
+# Python virtual environment (downloads all deps — never commit)
+venv/
+
+# Generated benchmark reports (changes every run)
+src/results/
+
+# Python cache files (auto-generated, platform-specific)
+__pycache__/
+*.pyc
+*.pyo
+
+# macOS system files
+.DS_Store
+
+# IDE/editor config (personal preferences)
+.vscode/
+.idea/
+*.swp
+*.swo
